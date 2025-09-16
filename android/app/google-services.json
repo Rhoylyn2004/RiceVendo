@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615555618361",
+    "project_id": "ricevendo-4e1fe",
+    "storage_bucket": "ricevendo-4e1fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615555618361:android:64ff12e8e1819c962a9fe8",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU36fFKT6jGC0HseeISAA1uUJFpbONqqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
